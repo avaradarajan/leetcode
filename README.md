@@ -33,6 +33,9 @@ Dynamic Programming
 
 - [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 - [x] Coin Change - https://leetcode.com/problems/coin-change/
+- There are two flavors of coin change - 
+    1) Total count
+    2) Minimum count
 - [x] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [x] Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
 - [x] Word Break Problem - https://leetcode.com/problems/word-break/
